@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+.vscode/
+coddy.py
+*.txt
+!requirements.txt
